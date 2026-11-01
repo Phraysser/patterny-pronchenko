@@ -1,0 +1,17 @@
+# Уровень 1
+TANK 50 500
+
+# Кирпичные стены
+OBSTACLE 200 100 60 60 3 10 brick
+OBSTACLE 300 100 60 60 3 10 brick
+OBSTACLE 400 100 60 60 3 10 brick
+
+# Металлические блоки
+OBSTACLE 200 250 60 60 5 20 metal
+OBSTACLE 400 250 60 60 5 20 metal
+
+# Деревянные ящики
+OBSTACLE 150 400 40 40 2 5 wood
+OBSTACLE 250 400 40 40 2 5 wood
+OBSTACLE 350 400 40 40 2 5 wood
+OBSTACLE 450 400 40 40 2 5 wood
