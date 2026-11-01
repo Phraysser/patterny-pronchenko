@@ -1,0 +1,9 @@
+{
+  "window_width": 800,
+  "window_height": 800,
+  "game_title": "Танк",
+  "tank_speed": 3.0,
+  "bullet_speed": 8.0,
+  "bullet_damage": 1,
+  "default_level": "levels/level1.txt"
+}
